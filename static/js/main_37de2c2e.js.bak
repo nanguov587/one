@@ -606,16 +606,16 @@
 
 					qbxr: {
 						name: "Q版小人",
-						total: 20
+						total: 27
 					},
 					pptz: {
 						name: "趴趴团子",
 						total: 7
 					},
-					hz: {
+					/*hz: {
 						name: "徽章",
 						total: 18
-					},
+					},*/
 					mw: {
 						name: "萌物",
 						total: 30

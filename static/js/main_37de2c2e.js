@@ -584,10 +584,10 @@
 						name: "半身像",
 						total: 7
 					},
-					cgcard: {
+					/*cgcard: {
 						name: "CG背景",
 						total: 18
-					},
+					},*/
 
 
 
@@ -612,10 +612,10 @@
 						name: "趴趴团子",
 						total: 7
 					},
-					hz: {
+					/*hz: {
 						name: "徽章",
 						total: 18
-					},
+					},*/
 					mw: {
 						name: "萌物",
 						total: 30
